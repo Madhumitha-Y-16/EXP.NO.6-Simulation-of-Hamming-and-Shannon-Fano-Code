@@ -39,7 +39,7 @@ Python (google colab)
 # PROGRAM
 
 #Huffman and Shannon-Fano coding
-
+```
 import numpy as np
 
 import math 
@@ -105,7 +105,7 @@ print(f"Efficiency is : {eff}")
 print(f"Redudancy is : {red}")
 
 print(f"Variance is : {var}")
-
+```
 # INPUT
 Enter the number of Samples : 7
 Enter the probability of sample values 1: 0.125
