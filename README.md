@@ -7,11 +7,7 @@ To simulate Huffman and Shannon-Fano coding for a discrete memoryless source wit
 
 # SOFTWARE REQUIRED
 
-Python
-
-NumPy
-
-Matplotlib (for visualization)
+Python (google colab)
 
 # ALGORITHMS
 
