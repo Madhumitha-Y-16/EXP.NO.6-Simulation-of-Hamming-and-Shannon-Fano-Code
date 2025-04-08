@@ -107,6 +107,7 @@ print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
 ```
 # INPUT
+```
 Enter the number of Samples : 7
 Enter the probability of sample values 1: 0.125
 Enter the probability of sample values 2: 0.0625
@@ -122,6 +123,7 @@ Enter the length of the sample values 4: 4
 Enter the length of the sample values 5: 3
 Enter the length of the sample values 6: 3
 Enter the length of the sample values 7: 2
+```
 
 # OUTPUT
 
